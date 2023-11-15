@@ -1,11 +1,11 @@
 
 <div>
 
-### Olá! Eu sou o Matheus "Zonicx" Medeiros 😄 | 
+### 😄 Olá! Eu sou o Matheus "Zonicx" Medeiros | Hello! I'm Matheus "Zonicx" Medeiros 
 
-Sempre interessado nessa area de dev, hora de construir projetos🔥✍️
+🔥✍️ Sempre interessado nessa area de dev, hora de construir projetos
 
-Disposto a aprender o que for preciso🖐️🏆
+🖐️🏆 Disposto a aprender o que for preciso
 
 </div>
 
@@ -22,7 +22,7 @@ Disposto a aprender o que for preciso🖐️🏆
 
 ##
 
-### Estou Aprendendo |
+### 📖 Estou Aprendendo | I am learning
 
 <div
 style="display: inline_block"><br>
