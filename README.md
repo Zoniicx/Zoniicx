@@ -1,7 +1,7 @@
 
 <div>
 
-### Olá! Eu sou o Matheus "Zonicx" Medeiros 😄
+### Olá! Eu sou o Matheus "Zonicx" Medeiros 😄 | 
 
 Sempre interessado nessa area de dev, hora de construir projetos🔥✍️
 
@@ -17,12 +17,12 @@ Disposto a aprender o que for preciso🖐️🏆
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/zonicx)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-medeiros-b2236829b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ##
 
-### Estou Aprendendo
+### Estou Aprendendo |
 
 <div
 style="display: inline_block"><br>
