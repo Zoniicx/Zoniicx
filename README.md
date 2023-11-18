@@ -34,4 +34,5 @@
 style="display: inline_block"><br>
   <img align="center" alt="Med-HTML" height="40" width="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Med-CSS" height="40" width="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Med-CSS" height="40" width="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
