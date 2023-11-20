@@ -17,7 +17,7 @@
     <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoniicx&hide_border=true&layout=compact&title_color=FFFAFA&text_color=FFFAFA&icon_color=FFD700&theme=tokyonight"width="45%"/>
 </div>
         
-<img align="right" height="13%" width="12%" src="https://komarev.com/ghpvc/?username=zoniicx&style=plastic&color=yellow" alt="zoniicx"/>
+<img align="right" height="13%" width="12%" src="https://komarev.com/ghpvc/?username=zoniicx&style=plastic&color=green" alt="zoniicx"/>
 
 ##
 
