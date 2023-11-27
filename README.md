@@ -21,7 +21,7 @@
 
 ##
 
-### 💻 Redes Sociais | Social Media
+### 💻 Social Media | Redes Sociais
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/zonicx)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
@@ -30,7 +30,7 @@
 
 ##
 
-### 📖 Estou Aprendendo | I am learning
+### 📖 I am learning | Estou Aprendendo
 
 <div
 style="display: inline_block"><br>
